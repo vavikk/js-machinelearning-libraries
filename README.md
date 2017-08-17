@@ -8,4 +8,4 @@ A collection of javascript Machine Learning libraries and tools.
 * [brain.js](https://github.com/harthur-org/brain.js) - Neural networks in JavaScript
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser
 * [ml.js](https://github.com/mljs) - Machine learning and numerical analysis tools in JavaScript for Node.js and the Browser !
-
+* [ConvNetJS](https://github.com/karpathy/convnetjs) - ConvNetJS is a Javascript implementation of Neural networks, together with nice browser-based demos. 
